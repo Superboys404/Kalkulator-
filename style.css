@@ -68,7 +68,7 @@ button[onclick="calculate()"] {
     color: white;
     font-size: 22px;
 }
-
+/* Nganu */
 button[onclick="clearDisplay()"] {
     background: #ee5253;
     color: white;
