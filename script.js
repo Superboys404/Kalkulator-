@@ -15,7 +15,7 @@ function calculate() {
     try {
         display.value = eval(expression);
     } catch {
-        display.value = 'Ngitung yang bener lah bodoh!';
+        display.value = 'itung yg bnr la oon😡';
     }
 }
 
@@ -23,4 +23,5 @@ function clearDisplay() {
     const display = document.getElementById('display');
     display.value = '';
 }
+
 
